@@ -5,7 +5,9 @@ namespace RockPaperScissors
     internal class RockPaperScissors
     {
         static void Main(string[] args)
-        {
+        {   
+            // That's my first game project added to GitHub (test)
+            
             const string rock = "Rock";
             const string paper = "Paper";
             const string scissors = "Scissors";
